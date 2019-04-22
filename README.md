@@ -1,1 +1,2 @@
-# ri_lab_03
+Laboratório 03 - Tokenização e Stemming
+Disciplina: Recuperação da Informação
